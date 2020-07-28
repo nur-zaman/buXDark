@@ -225,3 +225,47 @@
   .container, .content-container{
     width: 40%;
   }
+
+  .xmodule_display.xmodule_SequenceModule .sequence-nav-button {
+    background-color: #000 !important;
+    border-color: #f9f9f9 !important;
+}
+label , .problem , .breadcrumbs {
+    color: #ffffff !important;
+}
+.page-header {
+    color: white;
+    padding: 20px;
+    border-bottom: 1px solid #fdfdfd;
+}
+button.sequence-nav-button.button-next , button.sequence-nav-button.button-previous {
+    color: white;
+}
+
+/* lms-main-v1.4d8c85a86914.css | https://d24jp206mxeyfm.cloudfront.net/static/bragi/css/lms-main-v1.4d8c85a86914.css */
+
+.view-courseware div.sequence .sequence-nav button.nav-item:hover, .view-courseware div.sequence .sequence-nav button.nav-item:active, .view-courseware div.sequence .sequence-nav button.nav-item.active, .view-courseware div.sequence .sequence-nav .sequence-nav-button:hover, .view-courseware div.sequence .sequence-nav .sequence-nav-button:active, .view-courseware div.sequence .sequence-nav .sequence-nav-button.active, .view-courseware div.sequence .sequence-bottom button.nav-item:hover, .view-courseware div.sequence .sequence-bottom button.nav-item:active, .view-courseware div.sequence .sequence-bottom button.nav-item.active, .view-courseware div.sequence .sequence-bottom .sequence-nav-button:hover, .view-courseware div.sequence .sequence-bottom .sequence-nav-button:active, .view-courseware div.sequence .sequence-bottom .sequence-nav-button.active {
+    /* border-bottom-color: #2196f3; */
+    border-bottom-color: #fff !important;
+  }
+  
+  /* lms-course.98a9db9f6a76.css | https://d24jp206mxeyfm.cloudfront.net/static/bragi/css/lms-course.98a9db9f6a76.css */
+  
+  @media (min-width: 576px) {
+    .xmodule_display.xmodule_SequenceModule .sequence-nav-button.focused, .xmodule_display.xmodule_SequenceModule .sequence-nav-button:hover, .xmodule_display.xmodule_SequenceModule .sequence-nav-button:active, .xmodule_display.xmodule_SequenceModule .sequence-nav-button.active, .xmodule_display.xmodule_SequenceModule .sequence-nav button.focused, .xmodule_display.xmodule_SequenceModule .sequence-nav button:hover, .xmodule_display.xmodule_SequenceModule .sequence-nav button:active, .xmodule_display.xmodule_SequenceModule .sequence-nav button.active {
+      /* background-color: #fff; */
+      background-color: #000 !important;
+    }
+  }
+  span.seq_problem , span{
+    color: white !important;
+    }
+    ol.tabs.course-tabs {
+        background: #272727 ;
+    }
+    .wrapper-course-material .course-tabs .tab a, .wrapper-course-material .course-tabs .tab a:visited{
+        color: white !important;
+    }
+    .xmodule_display.xmodule_CapaModule div.problem-progress {
+        color: #3c72af !important;
+    }
