@@ -1,0 +1,227 @@
+
+    .banner-bg-danger {
+        background-color: #cce5ff !important;
+        border: 1px solid #275cab !important;
+        color: #275cab !important;
+    }
+  
+  
+      .banner-bg-danger-red {
+        
+        background-color: #191f20 !important;
+        border: 1px solid #f2f2f2 !important;
+      
+       
+    }
+  
+    .settings-link {
+        background-color: transparent !important;
+        font-weight: 800;
+        color: inherit !important;
+        text-decoration: underline !important;
+    }
+  
+  .dashboard .my-courses, .dashboard .main-container, .dashboard .main-container .my-courses .listing-courses .course-item, .dashboard .main-container .my-courses .listing-courses .course-item .course-container, .dashboard .main-container .my-courses .course .details, .dashboard .main-container .my-courses .course, .account-settings-tabpanels .section, .account-settings-section-body, .account-settings-sections .section .account-settings-section-body .u-field, .course-tool-link, .course-outline ol.outline-item .subsection .vertical a, .problems-wrapper, .xblock-student_view-problem.xmodule_display, .choicegroup.capa_inputtype, .problem div {
+      background-color: #313131 !important;
+      box-shadow: none;
+  }
+  .enter-course{
+      background-color: #000000 !important;
+  }
+  .dashboard .main-container .my-courses .course .details{
+      background-color: #000000 !important;
+  }
+  .dashboard .my-courses, .dashboard .main-container{
+      background-color: #0a0a0a !important;
+  }
+  .dashboard .main-container .my-courses .course .details .wrapper-course-details .course-info .info-date-block-container .info-date-block, .info-course-id{
+      color: #c1c1c1 !important;
+  }
+  .dashboard-search-bar > .form > .div > .button.search-button{
+      
+      color: #c1c1c1 !important;
+      background-color: #0a0a0a !important;
+  }
+  
+  .search-button ::before{
+      background-color: #0a0a0a;
+      color: #c1c1c1;
+  }
+  
+  
+  /* Inline #9 | https://bux.bracu.ac.bd/dashboard */
+  
+  .banner-bg-danger {
+      /* background-color: #cce5ff !important; */
+      /* border: 1px solid #275cab !important; */
+      /* color: #275cab !important; */
+      background-color: #202020 !important;
+      border: 1px solid #fff !important;
+      color: #dfe1e3 !important;
+    }
+    
+    /* lms-main-v1.4d8c85a86914.css | https://d24jp206mxeyfm.cloudfront.net/static/bragi/css/lms-main-v1.4d8c85a86914.css */
+    
+    h1, h2, .home > header .title > .heading-group p, section.outside-app h1, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+      /* color: inherit; */
+      color: white !important;
+    }
+    
+    .course-info__content .details, .course-info-about .course-info__content, .dashboard .my-courses {
+      /* color: #000; */
+      color: #fbfbfb !important;
+    }
+    
+    body {
+      color: #313131 !important;
+    }
+    
+    .dashboard .main-container .my-courses .course .details .wrapper-course-details .course-info [class*="info-"] {
+      /* color: #5e5e5e; */
+      color: #e8e7e7 !important;
+    }
+    
+    .dashboard .main-container .my-courses .course .details .wrapper-course-details .course-info .info-date-block-container .info-date-block {
+      /* color: #767676; */
+      color: #e6e4e4 !important;
+    }
+    
+    .dashboard-search-bar label {
+      /* color: #313131; */
+      color: #fff !important;
+    }
+    
+    label {
+      /* text-shadow: 0 1px rgba(255,255,255,0.4); */
+      text-shadow: 0 1px rgba(4, 4, 4, 0.4) !important;
+    }
+  
+  /* lms-main-v1.4d8c85a86914.css | https://d24jp206mxeyfm.cloudfront.net/static/bragi/css/lms-main-v1.4d8c85a86914.css */
+  
+  .course-info__content, .container.dashboard, section.dashboard.outside-app, .view-profile .profile-self .wrapper-profile-field-account-privacy .dashboard.u-field-account_privacy, .view-profile .dashboard.wrapper-profile-sections, .view-profile .dashboard.badge-set-display, .find-courses .courses-container, .university-profile .courses-container, .courses-container .courses .course, .view-course-info .info-wrapper, .view-courseware .course-wrapper, .view-login .container, .view-login section.outside-app, .view-login .view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy, .view-profile .profile-self .wrapper-profile-field-account-privacy .view-login .u-field-account_privacy, .view-login .view-profile .wrapper-profile-sections, .view-profile .view-login .wrapper-profile-sections, .view-login .view-profile .badge-set-display, .view-profile .view-login .badge-set-display, .view-register .container, .view-register section.outside-app, .view-register .view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy, .view-profile .profile-self .wrapper-profile-field-account-privacy .view-register .u-field-account_privacy, .view-register .view-profile .wrapper-profile-sections, .view-profile .view-register .wrapper-profile-sections, .view-register .view-profile .badge-set-display, .view-profile .view-register .badge-set-display, .view-passwordreset .container, .view-passwordreset section.outside-app, .view-passwordreset .view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy, .view-profile .profile-self .wrapper-profile-field-account-privacy .view-passwordreset .u-field-account_privacy, .view-passwordreset .view-profile .wrapper-profile-sections, .view-profile .view-passwordreset .wrapper-profile-sections, .view-passwordreset .view-profile .badge-set-display, .view-profile .view-passwordreset .badge-set-display, .account-settings-container .wrapper-header, .account-settings-container .account-settings-sections, .static_page {
+    /* background: #111; */
+    /* box-shadow: 0 0 20px rgba(0,0,0,0.04); */
+    background: #0f0f0f !important;
+    
+  }
+  footer.footer {
+    background: #30393a !important;
+    }
+    .footer .footer-links .nav-link:hover, .footer .footer-links .nav-link:focus, .footer .footer-links .nav-link:active {
+      color: #275cab !important;
+      background-color: #000000 !important;
+  }
+  .footer .content-container a {
+    background: #30393a !important;
+  }
+  
+  .banner-bg-danger {
+    background-color: #1a1f20 !important;
+    border: 1px solid #fff !important;
+    color: #96e6d3 !important;
+    background: #1a1f20 !important;
+    
+  }
+  .nav-login, .action-primary, button .register, .register a, .learn-more, .enter-course, .search-button, button[type=submit], .btn-brand, .btn-primary, .btn-outline-primary:hover{
+    background-color: #161617 !important;
+  }
+  .search-button, button[type=submit]{
+    background: black !important;
+   }
+   
+   .nav-links .nav-account {
+   
+    background: #020202 !important;
+    border-color: #fff8f8 !important;
+    
+  }
+  html body.ltr.None.lang_en div.window-wrap div#content.content-wrapper.main-container div#course-container.course-view.page-content-container header.page-header.has-secondary{
+    background: black;
+  }
+  
+  
+  .container, section.outside-app, .view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy, .view-profile .wrapper-profile-sections, .view-profile .badge-set-display, .content-container {
+    width: 50%;
+   }
+   .banner-bg-danger-red {
+    background-color: #191f20;
+    border: 1px solid #f2f2f2;
+  }
+  
+  
+  .page-content {
+    background: black !important;
+   }
+   /* .--.---..--.-.-.---..-.-.--.-.-..--.-..-.-.--.-.--..-.--..-.-.................------------- */
+  
+  /* Element | https://bux.bracu.ac.bd/courses/course-v1:buX+CSE260+2020_Summer/course/ */
+  
+  .window-wrap {
+    background-color: black !important;
+  }
+  
+  /* Element | https://bux.bracu.ac.bd/courses/course-v1:buX+CSE260+2020_Summer/course/ */
+  
+  .page-content {
+    background: black;
+  }
+  
+  /* lms-main.8280f98ab194.css | https://d24jp206mxeyfm.cloudfront.net/static/bragi/css/bootstrap/lms-main.8280f98ab194.css */
+  
+  .date-summary-container .date-summary .heading {
+    /* color: #313131; */
+    color: #eae3e3 !important;
+  }
+  
+  .date-summary-container .date-summary .date {
+    /* color: #313131; */
+    color: #eae4e4 !important;
+  }
+  
+  /* Element | https://bux.bracu.ac.bd/courses/course-v1:buX+CSE260+2020_Summer/course/ */
+  
+  div.section:nth-child(3) > p:nth-child(2) {
+    color: white !important;
+  }
+  
+  /* Element | https://bux.bracu.ac.bd/courses/course-v1:buX+CSE260+2020_Summer/course/ */
+  
+  div.section:nth-child(3) > h3:nth-child(1) {
+    color: white !important;
+  }
+  html body.ltr.None.lang_en div.window-wrap div#content.content-wrapper.main-container div#course-container.course-view.page-content-container header.page-header.has-secondary{
+    background: black;
+  }
+  
+  /* Element | https://bux.bracu.ac.bd/courses/course-v1:buX+CSE260+2020_Summer/course/ */
+  
+  .description {
+    color: lightblue;
+  }
+  
+  /* Element | https://bux.bracu.ac.bd/courses/course-v1:buX+CSE260+2020_Summer/course/ */
+  
+  nav.navbar {
+    background: black;
+    border: white;
+  }
+  
+  /* lms-main.8280f98ab194.css | https://d24jp206mxeyfm.cloudfront.net/static/bragi/css/bootstrap/lms-main.8280f98ab194.css */
+  
+  .wrapper-account-settings main:not(.home), .content-wrapper .course-tabs .navbar-nav .nav-item a {
+    /* background-color: #f3f3f3; */
+    background-color: #131313 !important;
+    color: white !important;
+  }
+  
+  .content-wrapper .course-tabs .nav-item.active .nav-link, .content-wrapper .course-tabs .nav-item:hover .nav-link {
+    /* border-bottom-color: #0075b4; */
+    /* color: #0075b4; */
+    border-bottom-color: #fff;
+  }
+  .content-wrapper, .wrapper-account-settings {
+    background-color: #000000 !important;
+  }
+  .container, .content-container{
+    width: 40%;
+  }

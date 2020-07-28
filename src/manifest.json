@@ -1,0 +1,27 @@
+{
+  "name": "buXDark",
+  "version": "0.0.1",
+  "description": "Dark theme for buX",
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": "buXDark.png"
+  },
+  "permissions": [
+    "storage",
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "css": [
+        "styles.css"
+      ],
+      "js": [
+        "script.js"
+      ],
+      "matches": [
+        "https://bux.bracu.ac.bd/*"
+      ]
+    }
+  ],
+  "manifest_version": 2
+}
