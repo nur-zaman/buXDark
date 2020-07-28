@@ -24,3 +24,4 @@ try {
     console.log(error)
 }
 // Removes !important form the code , used try-catch as a quick fix to the error 
+document.querySelector("body > div.window-wrap > footer > div.footer-extra > div > small").innerHTML = "buXDark by NUR UZ ZAMAN 2020"
